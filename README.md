@@ -2,7 +2,7 @@
 ### $$\LARGE{\textsf{I'm\ \color{lightgreen}Greg,\ \color{cyan}iOS\ developer\ \color{}from\ \color{magenta}Lille,\ France }}$$ 
 
 ### Projects and Dev Stuffs:
-<img align="right" height="250" width="450" alt="" src="https://cdn.mos.cms.futurecdn.net/wXYTTkzuHmLfs4JDSEQRwP-1920-80.gif" />
+<img src="https://cdn.mos.cms.futurecdn.net/wXYTTkzuHmLfs4JDSEQRwP-1920-80.gif" align="right" height="250" width="450" alt="gif logo Apple" />
 
 - [THE GAME - BATTLE CARDS](https://github.com/GregDeveaux/Game_theLastBattle_Cards)
 
@@ -15,6 +15,7 @@
 - [SEARCHPIC](https://github.com/GregDeveaux/SearchPic)
 
 <details>
+  <br/>
 <summary><b><img height="20em" src="https://avatars.githubusercontent.com/u/92979399?v=4" /> GitHub stats</b> </summary>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GregDeveaux&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregDeveaux&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
