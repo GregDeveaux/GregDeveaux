@@ -13,6 +13,8 @@
 - [OTAKU SAKURU](https://github.com/GregDeveaux/OtakuSakuru)
 
 - [SEARCHPIC](https://github.com/GregDeveaux/SearchPic)
+  
+- [WHAT IS THE NEWS](https://github.com/GregDeveaux/WhatIsTheNews)
 
 <details>
   <br/>
