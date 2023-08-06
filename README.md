@@ -2,6 +2,7 @@
 ### $$\LARGE{\textsf{I'm\ \color{lightgreen}Greg,\ \color{cyan}iOS\ developer\ \color{}from\ \color{magenta}Lille,\ France }}$$ 
 
 ### Projects and Dev Stuffs:
+<img align="right" height="250" width="450" alt="" src="https://cdn.mos.cms.futurecdn.net/wXYTTkzuHmLfs4JDSEQRwP-1920-80.gif" />
 
 - [THE GAME - BATTLE CARDS](https://github.com/GregDeveaux/Game_theLastBattle_Cards)
 
